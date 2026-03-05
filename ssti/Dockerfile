@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:8u342
 
 COPY  spring-boot-ssti-1.0.0-SNAPSHOT.jar /app.jar
 
