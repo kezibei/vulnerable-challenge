@@ -4,7 +4,7 @@
 原简介：小明知道这里有漏洞，但他认真修复了原组件的漏洞，你能绕过他的修复吗？
 
 ## 相关文章
-* [挑战原文](https://暂无)
+* [挑战原文](https://mp.weixin.qq.com/s/XO4PrAYPqZUwPlrhtlJF6A)
 
 
 
